@@ -1,4 +1,4 @@
-# Eta photoproduction solutions 
+# Eta Photoproduction Solutions database 
 ### DATABASE: [data.pwatuzla.com](http://data.pwatuzla.com)
 ### Reaction: gama p --> eta p
 #### Publication: 
