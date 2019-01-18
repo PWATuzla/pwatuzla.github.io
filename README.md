@@ -3,7 +3,7 @@
 Hello! This is a PWA Tuzla Data Site where you can find different results from our Partial Wave Analysis.
 
 #### ETA PHOTOPRODUCTION SOLUTIONS DATA 
-[Link to Data] (https://github.com/PWATuzla/pwatuzla.github.io/tree/master/etaN_SE-ED)
+[Link to Data](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/etaN_SE-ED)
 
 ### Markdown
 
