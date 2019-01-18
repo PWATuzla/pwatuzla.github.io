@@ -1,5 +1,5 @@
 # Eta photoproduction solutions 
 ### DATABASE: www.data.pwatuzla.com
 ### Reaction: gama p --> eta p
-#### Published: Tiator, L., Gorchtein, M., Kashevarov, V.L. et al. Eur. Phys. J. A (2018) 54: 210. 
+#### Published: H. Osmanović, M. Hadžimehmedović, R. Omerović, J. Stahov, V. Kashevarov, K. Nikonov, M. Ostrick, L. Tiator, and A. Švarc, Phys. Rev. C 97, 015207 – Published 31 January 2018 
 
