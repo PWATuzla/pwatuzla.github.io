@@ -1,8 +1,9 @@
 ## Welcome to PWA Tuzla Data Site
 
-Hello! This is a PWA Tuzla Data Site where you can find different results from our Partial Wave Analysis.
+Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solutions from our Partial Wave Analysis.
 
-#### ETA PHOTOPRODUCTION SOLUTIONS DATA [Link to Data](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/etaN_SE-ED)
+### Solutions:
+#### ETA PHOTOPRODUCTION SOLUTIONS DATA [Link to Data](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
 #### PION NUCLEON SOLUTIONS DATA
 
 ### Contact
@@ -12,9 +13,6 @@ Webpage: www.pwatuzla.com
 Contact: www.pwatuzla.com/p/contact.html
 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### About PWA Tuzla
 PWA Tuzla is a part of Mainz - Tuzla - Zagreb collaboration... [Read More...](http://www.pwatuzla.com/p/mtz-collab.html)
 
