@@ -1,1 +1,1 @@
-### Solutins from etaN photoproduction
+### Solutions from etaN photoproduction
