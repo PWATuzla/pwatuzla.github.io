@@ -2,9 +2,9 @@
 
 Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solutions from our Partial Wave Analysis.
 
-### Solutions:
-#### ETA PHOTOPRODUCTION SOLUTIONS DATA [Link to Data](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
-#### PION NUCLEON SOLUTIONS DATA
+### SOLUTIONS:
+#### Eta photoproduction solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
+#### Pion nucleon solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io)
 
 ### Contact
 
