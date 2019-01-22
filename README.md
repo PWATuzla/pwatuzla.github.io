@@ -10,12 +10,12 @@ Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solut
 
 ```markdown
 Webpage: www.pwatuzla.com
-Contact: www.pwatuzla.com/p/contact.html
+Contact: www.pwatuzla.com/p/contact-us.html
 
 ```
 ### About PWA Tuzla
-PWA Tuzla is a part of Mainz - Tuzla - Zagreb collaboration... [Read More...](http://www.pwatuzla.com/p/mtz-collab.html)
+We are theoretical physicists at Faculty of Natural Sciences and Mathematics - University of Tuzla. Our group is a part of the Mainz - Tuzla - Zagreb Partial Wave Analysis collaboration. As a part of the MTZ PWA, our results are "above the line" in PDG library.... [Read More...](http://www.pwatuzla.com/p/mtz-collab.html)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our database? Please [contact us](mailto:rifat.omerovic@untz.ba) and we’ll help you sort it out.
