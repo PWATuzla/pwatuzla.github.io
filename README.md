@@ -3,10 +3,10 @@
 Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solutions from our Partial Wave Analysis.
 
 ### SOLUTIONS:
-```markdown
+
 - Eta photoproduction solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
 - Pion nucleon solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io)
-```
+
 
 ### Contact
 
