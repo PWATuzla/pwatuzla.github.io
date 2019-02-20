@@ -18,9 +18,10 @@ Discussions
 
 Tuesday, 19 February, 14:00-17:00, KPH, Seminar Room
 
+ - R.Beck, F.Afzal : New experimental results from ELSA and MAMI
  - Lothar Tiator: Eta Photoproduction in the MAID model
  - Alfred Svarc: Phase Ambiguities in Eta Photoproduction
- - Discussions
+ 
 
 Tuesday, 19 February, 17:30 dinner in "Plaka"
 
