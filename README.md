@@ -5,8 +5,10 @@ Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solut
 ### SOLUTIONS:
 
 - Eta photoproduction solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
-- Pion nucleon solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io)
 
+### TALKS:
+
+- MAINZ 2019 Collaboration meeting: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/Mainz2019)
 
 ### Contact
 
