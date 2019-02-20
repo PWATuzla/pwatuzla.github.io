@@ -30,6 +30,7 @@ Kirill Nikonov: Dispersion Relations for Eta Photoproduction
 Misha Gorchtein: Behaviour of Regge background under DR
 Victor Kashevarov: Results on DR for high energies and proton and neutron
 
+
 Wednesday, 20 February, 14:00-17:00, A2 meeting room, Neubau, 1OG
 Discussions
 
