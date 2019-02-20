@@ -1,6 +1,6 @@
 ## Welcome to PWA Tuzla Data Site
 
-Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solutions from our Partial Wave Analysis.
+Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solutions and materials from our Partial Wave Analysis (MTZ Collaboration).
 
 ### SOLUTIONS:
 
