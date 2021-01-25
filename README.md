@@ -5,6 +5,7 @@ Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solut
 ### SOLUTIONS:
 
 - Eta photoproduction solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
+- MA19 Photoproduction data - Phys. Rev. C 100, 065205 (2019) [Link->](https://github.com/PWATuzla/MA19-photoproduction-A2collab)
 
 ### TALKS:
 
