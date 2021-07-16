@@ -5,7 +5,8 @@ Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solut
 ### SOLUTIONS:
 
 - SE Photoproduction MULTIPOLES data: 
-- ####[Download ZIP](https://github.com/PWATuzla/Photoproduction-SE_MP/raw/main/Multipoles_SE_TMZ_A32_pA12_nA12.zip)
+     [#### Download ZIP](https://github.com/PWATuzla/Photoproduction-SE_MP/raw/main/Multipoles_SE_TMZ_A32_pA12_nA12.zip)
+     [#### Browse Data ](https://github.com/PWATuzla/Photoproduction-SE_MP)
 - Eta photoproduction solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
 - MA19 Photoproduction data - Phys. Rev. C 100, 065205 (2019) [Link->](https://github.com/PWATuzla/MA19-photoproduction-A2collab)
 
