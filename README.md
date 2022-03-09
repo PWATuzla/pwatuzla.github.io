@@ -10,6 +10,7 @@ Hello! This is a PWA Tuzla Data Site (GitHub) where you can find different solut
     | [Reference - ArXiv](https://arxiv.org/abs/2107.06513)
 - Eta photoproduction solutions data: [Link->](https://github.com/PWATuzla/pwatuzla.github.io/tree/master/EtaN)
 - MA19 Photoproduction data - Phys. Rev. C 100, 065205 (2019) [Link->](https://github.com/PWATuzla/MA19-photoproduction-A2collab)
+- L+P fit to MAID and SAID data (working version on march 2022) [Link->](https://github.com/RifatO/Different_data/tree/main/MTZ_SE)
 
 ### TALKS:
 
